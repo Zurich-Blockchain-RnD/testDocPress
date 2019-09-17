@@ -1,2 +1,2 @@
 # testDocPress
-get docPress website functioning
+get docPress website functioning.
